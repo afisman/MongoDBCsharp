@@ -11,7 +11,7 @@ namespace MongoDBCsharp
     {
         static void Main(string[] args)
         {
-            string hostUrl = "mongodb+srv://itty42:3h5ppTWm2P-VuGJ@cluster0.kpxlou5.mongodb.net/cresory";
+            string hostUrl = "Here_goes_url";
             string dbName = "cresory";
             var client = new MongoClient(hostUrl);
             var db = client.GetDatabase(dbName);
