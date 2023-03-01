@@ -1,0 +1,15 @@
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\bin\Debug\net6.0\MongoDBCsharp.exe
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\bin\Debug\net6.0\MongoDBCsharp.deps.json
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\bin\Debug\net6.0\MongoDBCsharp.runtimeconfig.json
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\bin\Debug\net6.0\MongoDBCsharp.dll
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\bin\Debug\net6.0\MongoDBCsharp.pdb
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.csproj.AssemblyReference.cache
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.AssemblyInfoInputs.cache
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.AssemblyInfo.cs
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.csproj.CoreCompileInputs.cache
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.dll
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\refint\MongoDBCsharp.dll
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.pdb
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\MongoDBCsharp.genruntimeconfig.cache
+C:\Users\afism\source\repos\MongoDBCsharp\MongoDBCsharp\obj\Debug\net6.0\ref\MongoDBCsharp.dll
